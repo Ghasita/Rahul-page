@@ -1,0 +1,55 @@
+.aa {
+    display: flex;
+    width: 231.69px;
+    height: 44.76px;
+    top: 5.63px;
+    left: 96px;
+    gap: 0px;
+    opacity: 0px;
+    rotate: 0.4 deg;
+  }
+  
+  .bb {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    font-family: Nunito;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27.28px;
+    margin-left: 464.41px;
+  
+  }
+  
+  .cc {
+    display: flex;
+    margin-left: 1.1px;
+    font-family: Nunito;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 68.2px;
+    text-align: center;
+    justify-content: center;
+  }
+  
+  .dd {
+    display: flex;
+    margin-left: 408px;
+  
+  }
+  .ee {
+
+
+    width: 98px;
+    height: 31px;
+    font-size: 12px;
+    top: 31px;
+    left: 1517px;
+    
+    gap: 10px;
+    border-radius: 6px 6px 6px 6px;
+    opacity: 0px;
+    margin-right: 5px;
+    background: #4A90E2;
+  text-align: center;
+  }

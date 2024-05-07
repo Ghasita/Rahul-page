@@ -1,0 +1,12 @@
+.aaa{
+    font-family: "Caveat";
+    font-size: 90px;
+    font-weight: 700;
+    color:transparent;
+    background-image:linear-gradient(90deg, #0B0C0D 0%, #005DCB 100%);
+    
+    -webkit-background-clip: text;
+    text-align: center;
+    width: 620px;
+    
+}
