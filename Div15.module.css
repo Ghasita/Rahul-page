@@ -1,0 +1,59 @@
+.aa{
+    display: flex;
+    flex-direction: column;
+   position: relative;
+}
+.bb{
+    width: 32px;
+    height: 109px;
+  position: absolute;
+  left: 35px;
+  top: 50px;
+color: #000;
+font-family: Nunito;
+font-size: 80px;
+font-weight: 400;
+
+text-align: left;
+
+}
+
+.dd{
+    width: 368px;
+    height: 217px;
+    color: #000;
+    
+    position: absolute;
+    left: 35px;
+    top: 130px;
+    font-family: Nunito;
+    font-size: 23px;
+    font-weight: 400;
+    
+    text-align: left;
+    
+}
+
+
+.ee{
+    display: flex;
+    color: #000;
+    position: absolute;
+    top: 375px;
+    left: 35px;
+    gap: 50px;
+}
+.ff{
+    width: 127px;
+    height: 47px;
+    position: absolute;
+    top: 20px;
+    left: 130px;
+    color: #000;
+    font-family: Nunito;
+font-size: 20px;
+font-weight: 400;
+
+text-align: left;
+
+}
